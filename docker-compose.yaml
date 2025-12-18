@@ -21,6 +21,7 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
+      - ./data:/opt/airflow/data
 
   webserver:
     image: apache/airflow:2.9.0
@@ -35,6 +36,7 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
+      - ./data:/opt/airflow/data
 
   scheduler:
     image: apache/airflow:2.9.0
@@ -47,6 +49,7 @@ services:
     volumes:
       - ./dags:/opt/airflow/dags
       - ./logs:/opt/airflow/logs
+      - ./data:/opt/airflow/data
 
 volumes:
   postgres-db-volume:

@@ -1,0 +1,16 @@
+product_id,product_name,category,price,stock
+101,Apple iPhone 14,Electronics,999,50
+102,Samsung Galaxy S23,Electronics,899,40
+103,Sony WH-1000XM5 Headphones,Accessories,349,30
+104,Dell XPS 13 Laptop,Computers,1200,20
+105,HP Spectre x360 Laptop,Computers,1100,25
+106,Apple MacBook Air,Computers,1300,15
+107,Nike Air Max Shoes,Fashion,150,60
+108,Adidas Ultraboost Shoes,Fashion,140,50
+109,Canon EOS R6 Camera,Electronics,2500,10
+110,Samsung 55" QLED TV,Electronics,1200,12
+111,Apple iPad Pro,Electronics,1100,35
+112,Logitech MX Master 3 Mouse,Accessories,100,100
+113,Sony PlayStation 5,Electronics,499,18
+114,Microsoft Xbox Series X,Electronics,499,20
+115,KitchenAid Stand Mixer,Home Appliances,399,22
